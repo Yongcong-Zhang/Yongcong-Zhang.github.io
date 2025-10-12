@@ -13,7 +13,7 @@ My previous research focuses on computer vision and multi-view geometry, with pa
 
 Before joining SurgAR, I obtained my Bachelor’s degree in Mathematics from [Hunan University](https://www.hnu.edu.cn/) in Changsha, China, and my Master’s degree in Information Science and Engineering from the same university, where I was supervised by [Prof.Yizhen Lao](https://scholar.google.fr/citations?user=OhPsgH0AAAAJ&hl=en).
 
-You can find my CV here: Yongcong Zhang's Curriculum Vitae. Open to collaboration! 😊
+You can find my CV here: [Yongcong Zhang's Curriculum Vitae](cv.pdf). Open to collaboration! 😊
 ## News
 <style style="text/css"> .news{font-size:0.75em;} </style>
 {% include news.html %}
