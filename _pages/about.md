@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student since 2022, advised by [Prof.Yizhen Lao](https://scholar.google.fr/citations?user=OhPsgH0AAAAJ&hl=en), at the College of Computer Science and Electronic Engineering, [Hunan University](https://www.hnu.edu.cn/) (HNU), Hunan, China. My research interests lie in rolling shutter camera and 3D Computer Vision, with a particular focus on multi-view geometry, SLAM, and structure from motion. You can find my CV here: [Yongcong Zhang's Curriculum Vitae](cv.pdf). Open to collaboration! 😊
-
 My name is Yongcong Zhang, and I am currently working as an R&D Engineer – PhD student at [SurgAR](https://surgar-surgery.com/).    At the same time, I am pursuing my PhD degree at the [Université Clermont Auvergne](https://www.uca.fr/) under the supervision of [Professor Adrien Bartoli](https://encov.ip.uca.fr/ab/), starting from 2025.
 
 My previous research focuses on computer vision and multi-view geometry, with particular experience in rolling shutter cameras and 3D reconstruction.    Currently, my work centers on camera self-calibration, especially for endoscopic cameras used in surgical applications.
 
 Before joining SurgAR, I obtained my Bachelor’s degree in Mathematics from [Hunan University](https://www.hnu.edu.cn/) in Changsha, China, and my Master’s degree in Information Science and Engineering from the same university, where I was supervised by [Prof.Yizhen Lao](https://scholar.google.fr/citations?user=OhPsgH0AAAAJ&hl=en).
 
-
+You can find my CV here: Yongcong Zhang's Curriculum Vitae. Open to collaboration! 😊
 ## News
 <style style="text/css"> .news{font-size:0.75em;} </style>
 {% include news.html %}
