@@ -15,4 +15,5 @@ videoresults:
 videotalk: 
 poster: 
 code: https://github.com/Yongcong-Zhang/DFR
+primal: True
 ---
