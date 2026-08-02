@@ -14,5 +14,5 @@ teaser: images/2023_dfr.png
 videoresults: 
 videotalk: 
 poster: 
-code: [https://github.com/Yongcong-Zhang/DFR](https://github.com/Yongcong-Zhang/DFR)
+code: https://github.com/Yongcong-Zhang/DFR
 ---
