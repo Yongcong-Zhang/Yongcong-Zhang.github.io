@@ -3,7 +3,7 @@ title: "Camera Augmentation: Enabling Uncalibrated Stereo Matching of Minimally-
 collection: publications
 permalink: /publication/2026-Camera-Augmentation
 date: 2026-01-01
-venue: "IPCAI 2026"
+venue: "IPCAI"
 authors: "Rasoul Sharifian, Navid Rabbani, <b>Yongcong Zhang</b>, Adrien Bartoli"
 url: 
 project: https://rasoul-sharifian.github.io/CATS/
@@ -16,6 +16,6 @@ videoresults:
 videotalk: 
 poster: 
 code: https://github.com/Rasoul-Sharifian/CATS
-primal: true
+primal: 
 award: "Shortlisted for the Best Presentation Award at IPCAI 2026"
 ---
