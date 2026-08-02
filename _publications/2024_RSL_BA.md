@@ -15,6 +15,6 @@ teaser: images/2024_RSL_BA.png
 videoresults: 
 videotalk: 
 poster: 
-code: https://github.com/Yongcong-Zhang/RSL-BA
+code: [https://github.com/Yongcong-Zhang/RSL-BA](https://github.com/Yongcong-Zhang/RSL-BA)
 primal: true
 ---
